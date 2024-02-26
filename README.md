@@ -81,7 +81,7 @@ To search for email:
 
 To search for phone:
 ```shell
-./DetectDee detect -p 15822575984,13188524682
+./DetectDee detect -p 2513779752
 ```
 
 Show google search(please check yourself):
